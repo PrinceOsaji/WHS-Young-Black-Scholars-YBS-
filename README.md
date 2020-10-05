@@ -4,7 +4,7 @@
 
 Thanks for checking out our site, and we're happy to have you in our club! Make sure to stay tuned for upcoming events and meetings!
 
-### Upcoming Meetings (College Talks)
+### Upcoming Meetings (College Month)
 
 ```markdown
 
