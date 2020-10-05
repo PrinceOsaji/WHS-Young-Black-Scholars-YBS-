@@ -12,3 +12,4 @@ Thanks for checking out our site, and we're happy to have you in our club! Make 
 2. October 20th, 2020: Pepperdine University and Oxycidental College
 
 ```
+### Hope To See You There!
