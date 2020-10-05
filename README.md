@@ -1,8 +1,7 @@
-## Welcome to Young Black Scholars!
-![Photo](file:///home/chronos/u-b385d52a028231d956148779a63e20ad634fd447/MyFiles/Downloads/YBS%20Group%20Photo.png)
-<style>
-h1 {color: blue;}
-</style>
+## Welcome to Young Black Scholars!  
+
+![Photo](file:///home/chronos/u-b385d52a028231d956148779a63e20ad634fd447/MyFiles/Downloads/YBS%20Group%20Photo.png)  
+
 Thanks for checking out our site, and we're happy to have you in our club! Make sure to stay tuned for upcoming events and meetings!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
