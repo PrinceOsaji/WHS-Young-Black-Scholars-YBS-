@@ -1,4 +1,5 @@
 ## Welcome to Young Black Scholars!
+ ![](https://www.facebook.com/WHSYBS)
 <style>
 h1 {color: blue;}
 </style>
