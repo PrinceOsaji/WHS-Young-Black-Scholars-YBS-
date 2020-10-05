@@ -1,6 +1,6 @@
 ## Welcome to Young Black Scholars!  
 
-! [Photo](https://images.app.goo.gl/2duXAuGxrrYcn5qg9)
+![Photo](https://images.app.goo.gl/2duXAuGxrrYcn5qg9)
 
 Thanks for checking out our site, and we're happy to have you in our club! Make sure to stay tuned for upcoming events and meetings!
 
