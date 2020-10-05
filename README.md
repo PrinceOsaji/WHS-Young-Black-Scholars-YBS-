@@ -1,6 +1,6 @@
 ## Welcome to Young Black Scholars!  
 
-![YBS Picture #2](https://images.app.goo.gl/uEETQ949YfDwJqi38)
+![YBS Picture #2](YBS Group Photo.JPG)
 
 Thanks for checking out our site, and we're happy to have you in our club! Make sure to stay tuned for upcoming events and meetings!
 
