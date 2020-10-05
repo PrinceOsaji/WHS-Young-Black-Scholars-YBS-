@@ -1,5 +1,5 @@
 ## Welcome to Young Black Scholars!
-!(Photo)(https://images.app.goo.gl/2duXAuGxrrYcn5qg9)
+![Photo](file:///home/chronos/u-b385d52a028231d956148779a63e20ad634fd447/MyFiles/Downloads/YBS%20Group%20Photo.png)
 <style>
 h1 {color: blue;}
 </style>
