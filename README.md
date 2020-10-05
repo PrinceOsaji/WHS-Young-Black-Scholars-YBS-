@@ -1,6 +1,6 @@
 ## Welcome to Young Black Scholars!  
 
-![Photo](file:///home/chronos/u-b385d52a028231d956148779a63e20ad634fd447/MyFiles/Downloads/YBS%20Group%20Photo.png)  
+! [Photo](https://images.app.goo.gl/2duXAuGxrrYcn5qg9)
 
 Thanks for checking out our site, and we're happy to have you in our club! Make sure to stay tuned for upcoming events and meetings!
 
