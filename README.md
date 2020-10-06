@@ -20,10 +20,10 @@ Thanks for checking out our site, and we're happy to have you in our club! Make 
 
 
 ### Make sure to also check out...
-https://www.whsblackalumni.org/  
+<https://www.whsblackalumni.org/>  
 
 ### Contact Us
-whsyoungblackscholars1@gmail.com
+<whsyoungblackscholars1@gmail.com>
 
 
 
