@@ -24,8 +24,8 @@ Thanks for checking out our site, and we're happy to have you in our club! Make 
 <https://www.whsblackalumni.org/>  
 
 ### Contact Us
-<whsyoungblackscholars1@gmail.com>
-Instagram @ whitneyhs_ybs
+<whsyoungblackscholars1@gmail.com>   
+Instagram @ whitneyhs_ybs    
 Facebook @ WHS Young Black Scholars
 
 
