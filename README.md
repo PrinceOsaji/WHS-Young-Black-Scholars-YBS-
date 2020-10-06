@@ -9,10 +9,10 @@ Thanks for checking out our site, and we're happy to have you in our club! Make 
 ![College Month](College.jpeg)
 ```markdown
 
-1. October 6, 2020: John Hopkins University  
+1. October 6, 2020 (3:30-4:00): John Hopkins University  
 
 
-2. October 20th, 2020: Pepperdine University and Oxycidental College
+2. October 20th, 2020 (4:00-5:00): Pepperdine University and Oxycidental College
 
 ```
 ### Hope To See You There!  
@@ -20,10 +20,14 @@ Thanks for checking out our site, and we're happy to have you in our club! Make 
 
 
 ### Make sure to also check out...
+<https://whsyoungblackschol.wixsite.com/mysite>
 <https://www.whsblackalumni.org/>  
 
 ### Contact Us
 <whsyoungblackscholars1@gmail.com>
+Instagram @ whitneyhs_ybs
+Facebook @ WHS Young Black Scholars
+
 
 
 
