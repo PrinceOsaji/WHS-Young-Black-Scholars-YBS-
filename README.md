@@ -20,13 +20,12 @@ Thanks for checking out our site, and we're happy to have you in our club! Make 
 
 
 ### Make sure to also check out...
-<https://whsyoungblackschol.wixsite.com/mysite>
 <https://www.whsblackalumni.org/>  
 
 ### Contact Us
 <whsyoungblackscholars1@gmail.com>   
-Instagram @ whitneyhs_ybs    
-Facebook @ WHS Young Black Scholars
+Instagram @ [whitneyhs_ybs](https://www.instagram.com/whitneyhs_ybs/)   
+Facebook @ [WHS Young Black Scholars](https://www.facebook.com/WHSYBS)
 
 
 
